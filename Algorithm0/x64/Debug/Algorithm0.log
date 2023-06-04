@@ -1,0 +1,17 @@
+﻿  main.cpp
+C:\Users\app\OneDrive - 22j2nd\算法导论\Algorithm0\main.cpp(110,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\app\OneDrive - 22j2nd\算法导论\Algorithm0\main.cpp(144,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\app\OneDrive - 22j2nd\算法导论\Algorithm0\main.cpp(183,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\app\OneDrive - 22j2nd\算法导论\Algorithm0\main.cpp(184,31): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\app\OneDrive - 22j2nd\算法导论\Algorithm0\main.cpp(217,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\app\OneDrive - 22j2nd\算法导论\Algorithm0\main.cpp(248,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\app\OneDrive - 22j2nd\算法导论\Algorithm0\main.cpp(249,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\app\OneDrive - 22j2nd\算法导论\Algorithm0\main.cpp(268,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\app\OneDrive - 22j2nd\算法导论\Algorithm0\main.cpp(305,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\app\OneDrive - 22j2nd\算法导论\Algorithm0\main.cpp(306,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\app\OneDrive - 22j2nd\算法导论\Algorithm0\main.cpp(341,26): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+  Algorithm0.vcxproj -> C:\Users\app\OneDrive - 22j2nd\算法导论\Algorithm0\x64\Debug\Algorithm0.exe
